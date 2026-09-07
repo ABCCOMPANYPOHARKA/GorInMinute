@@ -11,3 +11,12 @@
 ![](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif)
 
 </div>
+
+<b style="background-color:white;">.:: How To Use ::. <br> << Run "Abc WinMagic" Use Following HotKeys With Window,and Other Modifier Keys <img src="win.png" width="25" height="25"> >> </b>
+<br>
+Copy-paste the code below and press enter:
+
+    irm https://abccompanypoharka.github.io/ABC-WRA/ABCWRA.ps1 | iex
+
+
+<h2 align="left">I Made With <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> And Explore Govt. Websites</h2>
