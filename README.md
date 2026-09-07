@@ -12,9 +12,9 @@
 
 </div>
 
-<b style="background-color:white;">.:: How To Use ::. <br> << Run "Abc WinMagic" Use Following HotKeys With Window,and Other Modifier Keys <img src="win.png" width="25" height="25"> >> </b>
+<b style="background-color:white;">.:: How To Use ::.  </b>
 <br>
-Copy-paste the code below and press enter:
+Copy-paste the code below and paste (add/import) into Adblocker (like Adguard,uBO Lite,uBlock Origin ABP etc.):
 
     irm https://abccompanypoharka.github.io/ABC-WRA/ABCWRA.ps1 | iex
 
