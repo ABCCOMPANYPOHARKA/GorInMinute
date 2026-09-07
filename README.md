@@ -14,7 +14,7 @@
 
 <b style="background-color:white;">.:: How To Use ::.  </b>
 <br>
-Copy-paste the code below and paste (add/import) into Adblocker (like Adguard,uBO Lite,uBlock Origin ABP etc.):
+Copy the url below and paste (add/import) into Adblocker (like Adguard,uBO Lite,uBlock Origin ABP etc.):
 
     https://raw.githubusercontent.com/ABCCOMPANYPOHARKA/GorInMinute/refs/heads/main/govtfilterlist.txt
 
