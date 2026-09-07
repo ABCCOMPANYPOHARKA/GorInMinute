@@ -16,7 +16,7 @@
 <br>
 Copy-paste the code below and paste (add/import) into Adblocker (like Adguard,uBO Lite,uBlock Origin ABP etc.):
 
-    irm https://abccompanypoharka.github.io/ABC-WRA/ABCWRA.ps1 | iex
+    https://raw.githubusercontent.com/ABCCOMPANYPOHARKA/GorInMinute/refs/heads/main/govtfilterlist.txt
 
 
 <h2 align="left">I Made With <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> And Explore Govt. Websites</h2>
